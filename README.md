@@ -1,4 +1,4 @@
-<h1>Apresento-lhe o Mercado Alura </h1>
+<h1 style="text-align: center;">Apresento-lhe o Mercado Alura </h1>
 
 <p>Localizado no centro da cidade o <strong>Mercado Alura</strong> traz para os clientes os melhores produtos para suas casas. Fundada em 2023, o Mercado Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
